@@ -1,0 +1,11 @@
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/app/ServerMain.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/database/DatabaseManager.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/database/MessageRepository.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/model/Message.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/network/ChatServer.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/network/ClientHandler.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/network/PacketType.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/service/BroadcastService.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/service/FileService.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/ui/ServerFrame.java
+/home/gbrez/Desktop/JavaFXApp/Chatapp/server/src/main/java/util/Constants.java

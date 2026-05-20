@@ -1,0 +1,13 @@
+network/ChatClient.class
+ui/LoginFrame.class
+network/PacketSender.class
+ui/MessageBubble.class
+model/FilePayload.class
+util/ClientConstants.class
+network/PacketReceiver.class
+app/ClientMain.class
+service/UploadService.class
+ui/ChatFrame.class
+service/DownloadService.class
+model/User.class
+model/Message.class
