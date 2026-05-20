@@ -38,4 +38,3 @@ License
 - No license specified — add one if you plan to publish.
 
 Enjoy exploring the code!
-
