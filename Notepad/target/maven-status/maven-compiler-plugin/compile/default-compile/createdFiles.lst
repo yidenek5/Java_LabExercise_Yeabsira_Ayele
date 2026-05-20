@@ -1,0 +1,6 @@
+service/FileService.class
+app/Main.class
+controller/NotepadController.class
+model/AppState.class
+ui/MenuBarBuilder.class
+ui/NotepadFrame.class
