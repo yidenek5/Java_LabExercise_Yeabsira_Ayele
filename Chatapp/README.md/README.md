@@ -45,4 +45,3 @@ mvn -pl client exec:java -Dexec.mainClass="app.ClientMain"
 No license specified. Add a `LICENSE` file to define reuse terms.
 
 ---
-Want a longer README with screenshots, build badges, or deployment scripts? I can add that.
